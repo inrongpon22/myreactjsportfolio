@@ -1,7 +1,7 @@
 import pro1 from "../assets/project1.png";
 // import pro2 from "../assets/project2.png";
 // import pro3 from "../assets/project3.png";
-import pro5 from '../assets/project5.png';
+import pro5 from '../assets/project5-new.png';
 
 const ProjectCardData = [
   {
